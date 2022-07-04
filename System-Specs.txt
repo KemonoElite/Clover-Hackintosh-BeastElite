@@ -1,0 +1,107 @@
+
+ASUS Z77 Specs
+
+CPU	Intel socket 1155 for 3rd/2nd Generation Core i7/Core i5/Core i3/Pentium/Celeron Processors
+Supports Intel 22 nm CPU
+Supports Intel 32 nm CPU
+Supports Intel Turbo Boost technology 2.0*
+Chipset	Intel Z77*
+Memory	4x DIMM*, max. 32 GB, DDR3 1866/1600/1333 MHz non-ECC, un-buffered memory
+Dual channel memory architecture
+Supports Intel extreme memory profile (XMP)
+Graphics	Integrated graphics processor
+Multi-VGA output support: HDMI/DisplayPort ports
+- Supports HDMI with max. resolution 1920 x 1200 @ 60 Hz
+- Supports DisplayPort with max. resolution 2560 x 1600 @ 60 Hz
+Maximum shared memory of 1696 MB
+Supports Intel HD Graphics, InTru 3D, Quick Sync Video, Clear Video HD technology, Insider
+Multi-GPU Support	Supports NVIDIA Quad-GPU SLI technology
+Supports AMD Quad-GPU CrossFireX technology
+Supports LucidLogix Virtu MVP technology*
+Expansion Slots	2x PCIe 3.0/2.0 x16 (x16 or dual x8)*
+1x PCIe 2.0 x16 (x4 mode, black)**
+3x PCIe 2.0 x1
+Storage	Intel Z77 chipset:
+2x SATA 6 Gbps ports, brown
+4x SATA 3 Gbps ports, black
+Supports RAID 0, 1, 5, 10
+Supports Intel Smart Response technology, Intel Rapid Start technology and Intel Smart Connect technology*
+ASMedia ASM1061 controller:**
+2x SATA 6 Gbps ports, gray
+2x eSATA 6 Gbps ports, red
+LAN	Intel 82579V, 1x Gigabit LAN controller
+Audio	Realtek ALC892 8-channel high definition audio CODEC
+- Supports: Jack-detection, multi-streaming, front panel jack-retasking
+Audio feature:
+- Absolute pitch 192 kHz/ 24-bit true BD lossless sound
+- Blu-ray audio layer content protection
+- Optical S/PDIF out port(s) at back panel
+USB Ports	Intel Z77 chipset:*
+4x USB 3.0 ports (2 at back panel, blue, 2 at mid-board)
+10 x USB 2.0 ports (4 at back panel, black, 6 at mid-board) ASMedia ASM1042 controller:**
+2x USB 3.0 ports (2 at back panel, blue)
+Special Features	TUF engine power design:
+- 8 +4 +2 digital phase power design
+- TUF components (choke, capacitor and MOSFET; certified by military-standard)
+- ASUS DIGI+ power control utility
+Thermal solution:
+- TUF thermal armor
+- TUF thermal radar
+Safe and stable:
+- Dust defender
+ASUS exclusive features:
+- USB BIOS flashback
+- MemOK!
+- AI suite II
+- USB charger+
+- Anti-surge
+- ESD guards
+- ASUS UEFI BIOS EZ mode featuring friendly graphics user interface
+- Network iControl
+- USB 3.0 boost
+ASUS EZ DIY:
+- ASUS O.C. profile
+- ASUS CrashFree BIOS 3
+- ASUS EZ flash 2
+- ASUS MyLogo 2
+- Multi-language BIOS
+ASUS Q-design:
+- ASUS Q-shield
+- ASUS Q-LED (CPU, DRAM, VGA, boot device LED)
+- ASUS Q-slot
+- ASUS Q-DIMM
+- ASUS Q-connector
+Back I/O Ports	1x DisplayPort
+1x HDMI
+2x eSATA 6 Gbps
+1x LAN (RJ45) port
+4x USB 3.0
+4x USB 2.0
+1 x optical S/PDIF out
+6x audio jacks
+1x USB BIOS flashback button
+Internal I/O Ports	1x USB 3.0 connector supports additional 2x USB 3.0 ports (19-pin, moss green)
+3x USB 2.0 connectors support additional 6x USB 2.0 ports
+4x SATA 6 Gbps connectors
+4x SATA 3 Gbps connectors
+1x CPU fan connector (4-pin)
+1x CPU OPT fan connector (4-pin)
+4x optional fan connectors (4-pin)
+2x assistant fan connectors (3-pin)
+1x S/PDIF out header
+1x 24-pin EATX power connector
+1x 8-pin ATX 12V power connector
+1x front panel audio connector (AAFP)
+1x system panel (Q-connector)
+1x MemOK! button
+1x clear CMOS jumper
+BIOS	64 Mb flash ROM, UEFI AMI BIOS, PnP, DMI2.0, WfM2.0, SM BIOS 2.5, ACPI 2.0a, multi-language BIOS, ASUS EZ flash 2, ASUS CrashFree BIOS 3, F12 PrintScreen function, F3 shortcut function and ASUS DRAM SPD (serial presence detect) memory information
+Support Disc	Drivers
+Anti-virus software (OEM version)
+ASUS update
+ASUS utilities
+Form Factor	ATX
+Dimensions	12 x 9.6" (30.5 x 24.4 cm)
+Weight	Not specified by the manufacturer
+Packaging Info
+Box Dimensions (LxWxH)	13.5 x 10.7 x 3.3"
